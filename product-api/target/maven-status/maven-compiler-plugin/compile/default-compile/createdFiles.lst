@@ -1,0 +1,5 @@
+com\api\product\service\ProductService.class
+com\api\product\dao\ProductRepository.class
+com\api\product\model\Product.class
+com\api\product\ProductApiApplication.class
+com\api\product\controller\ProductController.class

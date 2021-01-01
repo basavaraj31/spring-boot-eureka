@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.api.server.discovery.EurekaServerApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.984 s <<< FAILURE! - in com.api.server.discovery.EurekaServerApplicationTests
+contextLoads  Time elapsed: 0.016 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.springframework.boot.builder.SpringApplicationBuilder.<init>([Ljava/lang/Object;)V
+
